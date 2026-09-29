@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Amal",
+      "email": "amal@gmail.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "username": "haizam",
+      "email": "haizam@gmail.com",
+      "password": "haizu",
+      "role": "teacher",
+      "id": "ZySsYh_whaA"
+    },
+    {
+      "username": "hiba",
+      "email": "hiba@gmail.com",
+      "password": "hibahiba",
+      "role": "teacher",
+      "id": "is4bIclI_5I"
+    },
+    {
+      "username": "shamil",
+      "email": "shamil@gmail.com",
+      "password": "shamilshamil",
+      "role": "hr",
+      "id": "6fkK_OXVxik"
+    },
+    {
+      "username": "shalu",
+      "email": "shalu@gmail.com",
+      "password": "shalushalu",
+      "role": "teacher",
+      "id": "r3pKVJaVTro"
+    },
+    {
+      "username": "roshan",
+      "email": "roshan@gmail.com",
+      "password": "amalroshan",
+      "role": "ceo",
+      "id": "8R9yzdDEbCQ"
+    },
+    {
+      "username": "adil",
+      "email": "adil@gmail.com",
+      "password": "dilu",
+      "role": "student",
+      "id": "sTIIfzR3YS4"
+    },
+    {
+      "username": "babu",
+      "email": "babu@gmail.com",
+      "password": "babu123",
+      "role": "father",
+      "id": "010cIED3dj4"
+    },
+    {
+      "username": "sabu",
+      "email": "sabu@gmail.com",
+      "password": "sabu123",
+      "role": "teacher",
+      "id": "kSVDWxSYqMc"
+    },
+    {
+      "username": "amal",
+      "email": "amal@gmail.com",
+      "password": "amalnad",
+      "role": "teacher",
+      "id": "Sqv6QJI9a7Y"
+    },
+    {
+      "name": "huda",
+      "email": "huda@gmail.com",
+      "password": "hudamol",
+      "role": "student",
+      "id": "IrKS612i-pw"
+    },
+    {
+      "name": "hida",
+      "email": "hida@gmail.com",
+      "password": "hidamol",
+      "role": "student",
+      "id": "y00Or2htm1g"
+    },
+    {
+      "name": "nihala",
+      "email": "nihala@gmail.com",
+      "password": "nihala123",
+      "role": "hr",
+      "id": "a9lC8YqOzWg"
+    },
+    {
+      "name": "rida",
+      "email": "rida@gmail.com",
+      "password": "ridamol",
+      "role": "teacher",
+      "id": "wy5ghGjG2FI"
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "department": "Development",
+      "position": "Frontend Developer"
+    },
+    {
+      "name": "siraj",
+      "email": "siraj@gmail.com",
+      "department": "develepor",
+      "position": "python",
+      "id": "ufttaLzd3qQ"
+    },
+    {
+      "name": "saj",
+      "email": "saj@gmail.com",
+      "department": "developer",
+      "position": "python",
+      "id": "leSgltjyPIA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
